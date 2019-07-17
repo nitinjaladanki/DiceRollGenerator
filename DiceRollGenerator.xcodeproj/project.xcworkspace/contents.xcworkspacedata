@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../../../SpurIQ Images/Dice/App Icon Dice Game.png">
+   </FileRef>
+   <FileRef
       location = "self:DiceRollGenerator.xcodeproj">
    </FileRef>
 </Workspace>
